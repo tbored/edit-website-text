@@ -6,6 +6,6 @@ Propably the simplest chrome extension that one can make.
 
 ## Installation
 
-You can install this extension by [downloading it as a ZIP file](test), unzipping it into a new folder, turning on developer mode in chrome's extension page, clicking "load unpacked" and then selecting the folder on your drive that contains the downloaded files.
+You can install this extension by [downloading it as a ZIP file](https://github.com/tbored/edit-website-text/archive/refs/heads/main.zip), unzipping it into a new folder, turning on developer mode in chrome's extension page, clicking "load unpacked" and then selecting the folder on your drive that contains the downloaded files.
 
 ###### made by tbored
